@@ -6,7 +6,7 @@
 
 **提问式手机选购顾问 · Interview-driven Smartphone Buying Advisor**
 
-[![Version](https://img.shields.io/badge/version-1.0-3b82f6)](#-设计哲学零机型数据) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Platform](https://img.shields.io/badge/platform-OpenSquilla-8b5cf6)](#-安装opensquilla) [![Type](https://img.shields.io/badge/type-SKILL.md%20playbook-f59e0b)](SKILL.md) [![Maintenance](https://img.shields.io/badge/maintenance-新机发布零维护-10b981)](#-设计哲学零机型数据)
+[![Version](https://img.shields.io/badge/version-v1.0.1-3b82f6)](#-设计哲学零机型数据) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Platform](https://img.shields.io/badge/platform-OpenSquilla-8b5cf6)](#-安装opensquilla) [![Type](https://img.shields.io/badge/type-SKILL.md%20playbook-f59e0b)](SKILL.md) [![Maintenance](https://img.shields.io/badge/maintenance-新机发布零维护-10b981)](#-设计哲学零机型数据)
 
 *像懂行的朋友一样帮你选手机：先问清"人和钱"，再联网查证，最后给能直接下单的结论。*
 
