@@ -1,56 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-label="phone-buying-guide banner">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#312e81"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0f2440"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-
-  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
-  <rect x="24" y="24" width="1152" height="252" rx="12" fill="none" stroke="#334155" stroke-width="1"/>
-
-  <text x="60" y="88" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#7dd3fc" letter-spacing="6">OPENSQUILLA SKILL · DIGITAL BUYING SERIES</text>
-
-  <text x="60" y="152" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="52" font-weight="700" fill="#f1f5f9">手机选购顾问</text>
-  <rect x="60" y="172" width="220" height="4" rx="2" fill="url(#accent)"/>
-  <text x="60" y="204" font-family="Consolas,'Courier New',monospace" font-size="17" fill="#94a3b8">phone-buying-guide · interview-driven buying advisor</text>
-
-  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15">
-    <rect x="60" y="228" width="128" height="34" rx="17" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
-    <text x="124" y="250" text-anchor="middle" fill="#7dd3fc">访谈式收敛</text>
-
-    <rect x="204" y="228" width="128" height="34" rx="17" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
-    <text x="268" y="250" text-anchor="middle" fill="#7dd3fc">动态否决</text>
-
-    <rect x="348" y="228" width="148" height="34" rx="17" fill="#1e293b" stroke="#a78bfa" stroke-width="1"/>
-    <text x="422" y="250" text-anchor="middle" fill="#c4b5fd">旧机价值拆解</text>
-
-    <rect x="512" y="228" width="128" height="34" rx="17" fill="#1e293b" stroke="#a78bfa" stroke-width="1"/>
-    <text x="576" y="250" text-anchor="middle" fill="#c4b5fd">倒退检查</text>
-
-    <rect x="656" y="228" width="140" height="34" rx="17" fill="#1e293b" stroke="#34d399" stroke-width="1"/>
-    <text x="726" y="250" text-anchor="middle" fill="#6ee7b7">零机型数据</text>
+  <rect width="960" height="240" fill="url(#bg)"/>
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" text-anchor="middle">
+    <text x="480" y="98" font-size="42" font-weight="700" fill="#f1f5f9">手机怎么选</text>
+    <rect x="452" y="114" width="56" height="3" rx="1.5" fill="#3b82f6"/>
+    <text x="480" y="146" font-size="17" fill="#94a3b8">从提问开始，到证据结束</text>
+    <g font-size="14">
+      <rect x="238" y="172" width="140" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#3b82f6" stroke-opacity="0.4"/>
+      <text x="308" y="194" fill="#93c5fd">访谈先行</text>
+      <rect x="410" y="172" width="140" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#3b82f6" stroke-opacity="0.4"/>
+      <text x="480" y="194" fill="#93c5fd">联网查证</text>
+      <rect x="582" y="172" width="140" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#3b82f6" stroke-opacity="0.4"/>
+      <text x="652" y="194" fill="#93c5fd">零硬编码</text>
+    </g>
   </g>
-
-  <g transform="translate(950,60)">
-    <rect x="0" y="0" width="190" height="170" rx="20" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
-    <rect x="25" y="18" width="140" height="134" rx="14" fill="none" stroke="#38bdf8" stroke-width="2.5"/>
-    <rect x="78" y="8" width="34" height="6" rx="3" fill="#334155"/>
-    <circle cx="95" cy="60" r="16" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
-    <circle cx="95" cy="60" r="6" fill="#a78bfa"/>
-    <path d="M45 130 Q95 96 145 130" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
-    <circle cx="60" cy="98" r="4" fill="#f472b6"/>
-    <circle cx="130" cy="98" r="4" fill="#fbbf24"/>
-    <text x="95" y="152" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#64748b">INTERVIEW → VERIFY → DECIDE</text>
-  </g>
+  <text x="40" y="36" font-size="12" fill="#64748b" font-family="'Segoe UI',sans-serif">phone-buying-guide</text>
+  <text x="930" y="222" font-size="11" fill="#475569" text-anchor="end" font-family="'Segoe UI',sans-serif">v1.0.1</text>
 </svg>
