@@ -110,9 +110,12 @@ git clone https://github.com/makefeier/phone-buying-guide.git
 - [ ] v2 耳机（方法论骨架复用，新增访谈题 + 信息源地图）
 - [ ] v3 平板 / 笔记本
 
-## 系列
+## 姊妹项目（懂行家族）
 
-- [phone-buying-guide](https://github.com/makefeier/phone-buying-guide) 选购单品 | [insider-compass](https://github.com/makefeier/insider-compass) 交易攻防 | [jargon-buster](https://github.com/makefeier/jargon-buster) 语言壁垒 | [value-lens](https://github.com/makefeier/value-lens) 价值判断
+- [phone-buying-guide](https://github.com/makefeier/phone-buying-guide) —— 手机选购顾问：单品决策（本仓库）
+- [insider-compass](https://github.com/makefeier/insider-compass) —— 不求人：交易攻防（防坑/止损/维权）
+- [jargon-buster](https://github.com/makefeier/jargon-buster) —— 懂行：语言壁垒击穿（黑话/话术/公文腔拆解）
+- [value-lens](https://github.com/makefeier/value-lens) —— 识货：万物价值评估（七层价值栈 + 处置六账，含 LangGraph 文档产线）
 
 ## License
 
