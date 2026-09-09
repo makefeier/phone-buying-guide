@@ -1,6 +1,6 @@
 ---
 name: phone-buying-guide
-description: 提问式手机选购顾问：先访谈明确现状/预算/用途，再联网核实参数（中关村在线/官网）与多渠道比价（京东/拼多多等），动态生成避坑否决项，输出面向大众的推荐或选购内容。数码选购系列第一块拼图，可扩展至耳机/平板。
+description: 手机怎么选、选手机、买手机、手机推荐、换机时加载。提问式选购顾问：先访谈明确现状/预算/用途，再联网核实参数与多渠道比价，动态生成避坑否决项，一轮给结论（phone buying / smartphone recommendation）。附旧机价值拆解与搜索故障降级链路。零硬编码数据。
 triggers:
 - 选手机
 - 买手机
@@ -9,6 +9,10 @@ triggers:
 - 手机怎么选
 - phone buying
 - smartphone recommendation
+version: v1.0.1
+author: makefeier
+platforms: [opensquilla, hermes]
+tags: [shopping-assistant, purchase-advisor, opensquilla-skill]
 ---
 
 # 手机选购顾问（数码选购系列 v1：手机）
